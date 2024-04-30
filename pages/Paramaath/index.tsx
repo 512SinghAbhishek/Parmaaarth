@@ -1,15 +1,24 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react';
 import PdfLink from '../../components/Home/PdfLink';
-import Data from "../Json/Data.json"
+import Data from "../Json/Data.json";
 import { useRouter } from 'next/router';
 
 function index() {
 
     const router = useRouter();
-    const [id, setId] = useState(null);
+    const [id, setId] = useState('');
+
+    // useEffect(() => {
+    //   if (router.query.pre) {
+    //     let Data = router.query
+    //     setId(Data.pre);
+    //   }
+    // }, [router.query.pre]);
+
     useEffect(() => {
         if (router.query.pre) {
-            setId(router.query.pre);
+            const pre = Array.isArray(router.query.pre) ? router.query.pre[0] : router.query.pre;
+            setId(pre);
         }
     }, [router.query.pre]);
 
