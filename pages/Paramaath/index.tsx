@@ -8,12 +8,6 @@ function index() {
     const router = useRouter();
     const [id, setId] = useState('');
 
-    // useEffect(() => {
-    //   if (router.query.pre) {
-    //     let Data = router.query
-    //     setId(Data.pre);
-    //   }
-    // }, [router.query.pre]);
 
     useEffect(() => {
         if (router.query.pre) {
