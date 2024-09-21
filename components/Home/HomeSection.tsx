@@ -1,6 +1,8 @@
 import React from "react";
 import MostReading from "./MostReading";
-import PdfLink from "./PdfLink";
+import PdfLink from "@/pages/content";
+
+
 
 const Home_Section = () => {
 
