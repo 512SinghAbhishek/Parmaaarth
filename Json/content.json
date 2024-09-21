@@ -45,7 +45,8 @@
       "Image": "/images/sunderkand.webp",
       "PDFName": "सुंदरकांड | Sunderkand Hindi PDF",
       "link": "",
-      "pdf": "/PDF/sunderkand-paath.pdf"
+      "pdf": "/PDF/sunderkand-paath.pdf",
+      "audio":""
     },
     {
       "id": "वाल्मीकि_रामायण",
@@ -68,7 +69,8 @@
       "Image": "/images/Ramayan.jpg",
       "PDFName": "वाल्मीकि रामायण (Srimad Valmiki Ramayana)",
       "link": "",
-      "pdf": "/PDF/valmiki-ramayana.pdf"
+      "pdf": "/PDF/valmiki-ramayana.pdf",
+      "audio":""
     },
     {
       "id": "रामचरित_मानस",
@@ -91,7 +93,8 @@
       "Image": "/images/ramcharitmanas.jpg",
       "PDFName": "रामचरितमानस (|| Ramcharitmanas ||)",
       "link": "",
-      "pdf": "/PDF/Ramcharit.pdf"
+      "pdf": "/PDF/Ramcharit.pdf",
+      "audio":""
     },
     {
       "id": "श्रीमद्भगवद्गीता",
@@ -114,7 +117,8 @@
       "Image": "/images/Geeta.jpg",
       "PDFName": "श्रीमद्भगवद्गीता/Srimad Bhagavad Gita ",
       "link": "",
-      "pdf": "/PDF/Srimad Bhagavad Gita (Sanskrit, Hindi & English).pdf"
+      "pdf": "/PDF/Srimad Bhagavad Gita (Sanskrit, Hindi & English).pdf",
+      "audio":""
     },
     {
       "id": "महाभारत",
@@ -137,7 +141,8 @@
       "Image": "/images/Mahabharat.jpg",
       "PDFName": "महाभारत/ Mahabharata",
       "link": "",
-      "pdf": "/PDF/hindimahabharat.pdf"
+      "pdf": "/PDF/hindimahabharat.pdf",
+      "audio":""
     },
     {
       "id": "शिव_तांडव",
@@ -184,7 +189,8 @@
       "Image": "/images/Hanuman-bahuk.avif",
       "PDFName": "हनुमान बाहुक | Hanuman Bahuk",
       "link": "",
-      "pdf": "/PDF/hanuman-bahuk.pdf"
+      "pdf": "/PDF/hanuman-bahuk.pdf",
+      "audio":""
     },
     {
       "id": "दुर्गा_सप्तशती",
@@ -207,7 +213,8 @@
       "Image": "/images/shri-durgasaptshati-chitramay.webp",
       "PDFName": "दुर्गा सप्तशती |Durga Saptashati",
       "link": "",
-      "pdf": "/PDF/Durga_Saptashati.pdf"
+      "pdf": "/PDF/Durga_Saptashati.pdf",
+      "audio":""
     },
     {
       "id": "शिव_चालीसा",
@@ -230,7 +237,8 @@
       "Image": "/images/shiv-chalisa.avif",
       "PDFName": "शिव चालीसा | Shiva Chalisa",
       "link": "",
-      "pdf": "/PDF/shiv-chalisa.pdf"
+      "pdf": "/PDF/shiv-chalisa.pdf",
+      "audio":""
     },
     {
       "id": "ऋग्वेद",
@@ -253,7 +261,8 @@
       "Image": "/images/Rigveda.webp",
       "PDFName": "संपूर्ण ऋग्वेद | Rig Veda",
       "link": "",
-      "pdf": "/PDF/Rigveda.pdf"
+      "pdf": "/PDF/Rigveda.pdf",
+      "audio":""
     },
     {
       "id": "यजुर्वेद",
@@ -276,7 +285,8 @@
       "Image": "/images/Yajurgveda.gif",
       "PDFName": "संपूर्ण यजुर्वेद | Yajurveda",
       "link": "",
-      "pdf": "/PDF/yajurved.pdf"
+      "pdf": "/PDF/yajurved.pdf",
+      "audio":""
 
     },
     {
@@ -300,7 +310,8 @@
       "Image": "/images/Samved.webp",
       "PDFName": "संपूर्ण सामवेद | Samaveda",
       "link": "",
-      "pdf": "/PDF/samved.pdf"
+      "pdf": "/PDF/samved.pdf",
+      "audio":""
 
     },
     {
@@ -324,7 +335,8 @@
       "Image": "/images/Atharveda.jpg",
       "PDFName": "संपूर्ण अथर्ववेद | Arthaveda",
       "link": "",
-      "pdf": "/PDF/ATHARVAVEDA.pdf"
+      "pdf": "/PDF/ATHARVAVEDA.pdf",
+      "audio":""
 
     },
     {
@@ -348,7 +360,8 @@
       "Image": "/images/गरुड़_पुराण.gif",
       "PDFName": "गरुड़ पुराण | Garuda Purana",
       "link": "",
-      "pdf": "/PDF/Garun-Puran.pdf"
+      "pdf": "/PDF/Garun-Puran.pdf",
+      "audio":""
 
     },
     {
@@ -372,7 +385,8 @@
       "Image": "/images/Malika.jpg",
       "PDFName": "भविष्य मालिका | Bhavishya Malika",
       "link": "",
-      "pdf": "/PDF/Bhavishya_malika.pdf"
+      "pdf": "/PDF/Bhavishya_malika.pdf",
+      "audio":""
 
     }
   ],
