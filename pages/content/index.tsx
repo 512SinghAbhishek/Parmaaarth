@@ -13,9 +13,9 @@ const PdfLink = () => {
             {data.Contant.map((item) => (
               <li key={item.id}>
                 <i className="fa-solid fa-file-pdf" style={{color: "red"}}></i>
-                <a href={`/content/${item.id}`}>
+                <Link href={`/content/${item.id}`}>
                   {item.id}
-                </a>
+                </Link>
               </li>
             ))}
           </ul>

@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="row">
                <div className="col-lg-3 col-sm-6">
                   <h3 className="adderss_text">Contact Us</h3>
-                  <div className="map_icon"><i className="fa-solid fa-location-dot"></i><span className="paddlin_left_0">E-19 Sector 22 ,Noida</span></div>
+                  {/* <div className="map_icon"><i className="fa-solid fa-location-dot"></i><span className="paddlin_left_0">E-19 Sector 22 ,Noida</span></div> */}
                   <div className="map_icon"><i className="fa-solid fa-phone-volume"></i><span className="paddlin_left_0">+91 9984261451</span></div>
                   <div className="map_icon"><i className="fa-solid fa-envelope"></i><span className="paddlin_left_0">paramaarth@gmail.com</span></div>
                </div>

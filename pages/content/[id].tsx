@@ -5,8 +5,13 @@ import PdfLink from '.';
 import Image from 'next/image';
 
 const ContentDetail = () => {
-  const router = useRouter();
-  const { id } = router.query;
+    const router = useRouter();
+    const { id } = router.query;
+
+    if (!router.isReady) {
+        return null;  // Don't render anything until the router is ready
+      }
+    
 
   const contentItem = data.Contant.find((item) => item.id === id);
 
@@ -19,7 +24,7 @@ const ContentDetail = () => {
      <div className='container Home_back'>
                 <div className='row'>
                     <div className='col-md-12 color-white'>
-                        {data.Contant.filter((item) => item.id === id).map((filteredItem, index) => ( // Add key prop to the map function
+                    {data.Contant.filter((item) => item.id === id).map((filteredItem,index) => (
                             <div className='col-md-9 first_block' key={index}>
                                 <h3>{filteredItem.titleOne.replace(/'/g, "&apos;")}</h3> {/* Escape unescaped `'` characters */}
                                 <hr />
@@ -29,7 +34,7 @@ const ContentDetail = () => {
                                     <h5 className='head_name'>{filteredItem.PDFName.replace(/'/g, "&apos;")}</h5>
                                     <hr />
                                     <div className=''>
-                                        <Image className='pdf_img' src={filteredItem.Image} width={300} height={300} alt='' /> {/* Replace <img> with <Image> */}
+                                    <Image className='pdf_img' src={filteredItem.Image} width={300} height={300} alt='' />
                                     </div>
                                     <audio className='pdf_img' controls>
                                         <source src={filteredItem.audio} type="audio/mpeg" />
