@@ -8,7 +8,7 @@ function Nevbar() {
                 <div className="container-fluid">
                     <div className='Logo'>
                         <Link href="/">  {/* Use Link for internal navigation */}
-                            <a>@Paramaarth</a>  {/* You can still use <a> inside Link */}
+                            <a>@Parmaarth</a>  {/* You can still use <a> inside Link */}
                         </Link>
                     </div>
                 </div>

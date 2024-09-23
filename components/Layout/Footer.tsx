@@ -10,7 +10,7 @@ const Footer = () => {
                   <h3 className="adderss_text">Contact Us</h3>
                   {/* <div className="map_icon"><i className="fa-solid fa-location-dot"></i><span className="paddlin_left_0">E-19 Sector 22 ,Noida</span></div> */}
                   <div className="map_icon"><i className="fa-solid fa-phone-volume"></i><span className="paddlin_left_0">+91 9984261451</span></div>
-                  <div className="map_icon"><i className="fa-solid fa-envelope"></i><span className="paddlin_left_0">paramaarth@gmail.com</span></div>
+                  <div className="map_icon"><i className="fa-solid fa-envelope"></i><span className="paddlin_left_0">parmaarth52@gmail.com</span></div>
                </div>
                <div className="col-lg-6 col-sm-6">
                 
@@ -30,7 +30,7 @@ const Footer = () => {
          </div>
          <hr />
             <div className="copy_right d-flex">
-               <p>Copyright © Paramaarth all rights reserved.</p> ||
+               <p>Copyright © parmaarth.in all rights reserved.</p> ||
                <p>Devloped by Abhishek</p>
 
             </div>
