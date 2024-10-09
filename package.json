@@ -4,7 +4,8 @@
     "private": true,
     "scripts": {
         "dev": "next dev",
-        "build": "next build",
+        "generate-sitemap": "node scripts/sitemap.js",
+        "build": "npm run generate-sitemap && next build",
         "export": "next build && next export",
         "start": "next start",
         "lint": "next lint"
