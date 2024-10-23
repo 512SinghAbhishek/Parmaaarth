@@ -32,6 +32,30 @@ export default function Document() {
                     `}
                 </Script>
 
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8376056185309199"
+                    crossOrigin="anonymous"></script>
+                {/* <!-- Sidebar 1 --> */}
+                <ins className="adsbygoogle"
+                    style={{ display: "block" }}
+                    data-ad-client="ca-pub-8376056185309199"
+                    data-ad-slot="6931571639"
+                    data-ad-format="auto"
+                    data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({ });
+                </script>
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8376056185309199"
+                    crossOrigin="anonymous"></script>
+                {/* <!-- Footer 1 --> */}
+                <ins className="adsbygoogle"
+                    style={{ display: "block" }}
+                    data-ad-client="ca-pub-8376056185309199"
+                    data-ad-slot="3235869207"
+                    data-ad-format="auto"
+                    data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({ });
+                </script>
                 <Script
                     async
                     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8376056185309199"
