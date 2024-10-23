@@ -11,7 +11,7 @@ export default function Document() {
                     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
                     crossOrigin="anonymous"
                 />
-{/* <!-- Google tag (gtag.js) --> */}
+                {/* <!-- Google tag (gtag.js) --> */}
 
 
                 <title>|| Paramaarth ||</title>
@@ -33,6 +33,13 @@ export default function Document() {
                 </Script>
 
                 <Script
+                    async
+                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8376056185309199"
+                    crossOrigin="anonymous"
+                    strategy="lazyOnload"
+                />
+
+                <Script
                     src="https://kit.fontawesome.com/96239c21a7.js"
                     crossOrigin="anonymous"
                     strategy="lazyOnload"
@@ -46,7 +53,7 @@ export default function Document() {
                     strategy="lazyOnload"
                 />
             </body>
-           
+
         </Html>
     );
 }
