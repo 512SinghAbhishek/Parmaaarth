@@ -253,15 +253,15 @@ const ContentDetail = () => {
     } = contentItem;
 
     // List of keywords to add
-    const keywords = `hanuman chalisa, hanuman chalisa pdf, hanuman chalisa pdf hindi, 
-        सुंदरकांड, सुंदरकांड पाठ हिंदी में PDF, रामायण, ram charit manas pdf, 
-        ramayan pdf, Ramcharitmanas, ramcharitmanas pdf, रामचरित_मानस, ram charit manas pdf, 
-        श्रीमद्भगवद्गीता, Bhagavad Gita, shrimad bhagwat geeta, bhagwat geeta in hindi, 
-        महाभारत, mahabharat, महाभारत कथा, Shiva Tandava, shiva tandava stotram, 
-        shiv tandav, lyrics of shiv tandav stotram, tulsidas, हनुमान बाहुक, दुर्गा सप्तशती, 
-        शिव चालीसा, mahadev chalisa, shiv chalisa, shiv chalisa lyrics, rigveda in hindi pdf, 
-        rig veda in hindi pdf, ऋग्वेद, सामवेद, अथर्ववेद, गरुड़ पुराण, Garuda Purana, 
-        garuda purana pdf, भविष्य मालिका, bhavishya malika pdf, यजुर्वेद, यजुर्वेद in hindi`;
+    const keywords = `hanuman chalisa,Hanuman Chalisa PDF in Hindi | हनुमान चालीसा हिंदी में pdf, hanuman chalisa pdf, hanuman chalisa pdf hindi, 
+        सुंदरकांड, Sunderkand PDF in Hindi | सुंदरकांड हिंदी में pdf,रामचरितमानस हिंदी में pdf | Ramcharitmanas PDF in Hindi, रामायण, ram charit manas pdf, 
+        ramayan pdf, Ramcharitmanas, ramcharitmanas pdf,वाल्मीकि रामायण हिंदी में pdf | Valmiki Ramayana PDF in Hindi, रामचरित_मानस, ram charit manas pdf, 
+        श्रीमद्भगवद्गीता, Bhagavad Gita,श्रीमद्भगवद्गीता हिंदी में pdf | Srimad Bhagavad Gita PDF in Hindi, shrimad bhagwat geeta, bhagwat geeta in hindi, 
+        महाभारत, mahabharat,महाभारत हिंदी में pdf | Mahabharata PDF in Hindi,शिव तांडव हिंदी में pdf | Shiv Tandav PDF in Hindi, महाभारत कथा, Shiva Tandava, shiva tandava stotram, 
+        shiv tandav,हनुमान बाहुक हिंदी में pdf | Hanuman Bahuk PDF in Hindi,दुर्गा सप्तशती हिंदी में pdf | Durga Saptashati PDF in Hindi,शिव चालीसा हिंदी में pdf | Shiva Chalisa PDF in Hindi, lyrics of shiv tandav stotram, tulsidas, हनुमान बाहुक, दुर्गा सप्तशती, 
+        शिव चालीसा,संपूर्ण ऋग्वेद हिंदी में pdf | Rig Veda PDF in Hindi,संपूर्ण यजुर्वेद हिंदी में pdf | Yajurveda PDF in Hindi, mahadev chalisa, shiv chalisa, shiv chalisa lyrics, rigveda in hindi pdf, 
+        rig veda in hindi pdf,संपूर्ण सामवेद हिंदी में pdf | Samaveda PDF in Hindi,संपूर्ण अथर्ववेद हिंदी में pdf | Arthaveda PDF in Hindi,गरुड़ पुराण हिंदी में pdf | Garuda Purana PDF in Hindi, ऋग्वेद, सामवेद, अथर्ववेद, गरुड़ पुराण, Garuda Purana, 
+        garuda purana pdf, भविष्य मालिका, bhavishya malika pdf, यजुर्वेद,भविष्य मालिका हिंदी में pdf | Bhavishya Malika PDF in Hindi, यजुर्वेद in hindi`;
 
     return (
         <div>
