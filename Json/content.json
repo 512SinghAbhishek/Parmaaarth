@@ -398,99 +398,82 @@
   "URl_Link": [
     {
       "id": "हनुमान_चालीसा",
-      "name": "हनुमान चालीसा",
-      "className": "nav-link",
-      "url": "/Contant"
+      "name": "हनुमान चालीसा"
     },
     {
       "id": "सुंदरकांड",
       "name": "सुंदरकांड",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "वाल्मीकि_रामायण",
       "name": "वाल्मीकि रामायण",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "रामचरित_मानस",
       "name": "रामचरित मानस",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "श्रीमद्भगवद्गीता",
       "name": "श्रीमद्भगवद्गीता",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "महाभारत",
       "name": "महाभारत",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "शिव_तांडव",
       "name": "शिव ताण्डव स्तोत्र",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "हनुमान_बाहुक",
       "name": "श्री हनुमान बाहुक",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "दुर्गा_सप्तशती",
       "name": "श्री दुर्गा सप्तशती",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "शिव_चालीसा",
       "name": "संपूर्ण शिव चालीसा",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "ऋग्वेद",
       "name": "संपूर्ण ऋग्वेद",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "यजुर्वेद",
       "name": "संपूर्ण यजुर्वेद",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "सामवेद",
       "name": "संपूर्ण सामवेद",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "अथर्ववेद",
       "name": "संपूर्ण अथर्ववेद",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "गरुड़_पुराण",
       "name": "संपूर्ण गरुड़ पुराण",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     },
     {
       "id": "भविष्य_मालिका",
       "name": "भविष्य मालिका",
-      "className": "nav-link",
-      "url": "/Paramaath"
+      "className": "nav-link"
     }
   ]
 }
